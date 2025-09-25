@@ -1,2 +1,2 @@
-resultseval:1.1
+resultseval:1.2
 compare:1.0
