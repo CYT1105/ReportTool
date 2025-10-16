@@ -1,2 +1,2 @@
 resultseval:1.9
-compare:1.0
+compare:1.1
